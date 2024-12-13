@@ -3,3 +3,9 @@
 
 # Secrets
 .env
+
+# C++ Compiler
+*.out
+
+# Python
+__pycache__/
